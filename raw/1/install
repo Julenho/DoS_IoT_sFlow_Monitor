@@ -27,4 +27,10 @@ echo "deb https://packages.grafana.com/oss/deb stable main" | tee -a /etc/apt/so
 
 sudo service grafana-server restart
 
+_____________________
+
+
+Please login into http://your.ip.ad.dr.ess:81 or https://your.ip.ad.dr.ess:443 with login admin and password NuWxeLiFbade2295
+
+
 
